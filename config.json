@@ -1,0 +1,8 @@
+{
+    "name": "dataservice-service",
+    "version": "1.0.389",
+    "private": false,
+    "environment": "production",
+    "build_id": 179,
+    "allow_public_access": true
+}
